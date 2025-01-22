@@ -1,0 +1,2 @@
+# coinbase
+Coinbase websocket feed
